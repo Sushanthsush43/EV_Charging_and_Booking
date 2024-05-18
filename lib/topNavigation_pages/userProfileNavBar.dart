@@ -14,12 +14,12 @@ class UserProfileNavBar extends StatelessWidget {
             Column(
               children: [
                 UserAccountsDrawerHeader(
-                  accountName: Text("Sushanth"),
-                  accountEmail: Text("sushanth03@gmail.com"),
+                  accountName: Text(""),
+                  accountEmail: Text(""),
                   currentAccountPicture: CircleAvatar(
                     child: ClipOval(
                       child: Image.asset(
-                        "assets/images/sush.jpg",
+                        "",
                       ),
                     ),
                   ),
