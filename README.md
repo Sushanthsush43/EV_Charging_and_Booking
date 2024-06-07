@@ -3,7 +3,7 @@
 
 #### Gallery
 
-<img src="https://github.com/Sushanthsush43/EV_Charging_and_Booking/blob/main/assets/images/Screenshot_20240607_131605_LinkedIn.jpg" alt="Image 1" width="400">
+<img src="https://github.com/Sushanthsush43/EV_Charging_and_Booking/blob/main/assets/images/Screenshot_20240607_131605_LinkedIn.jpg" alt="Image 1" width="350">
 
 ![Image 2](https://github.com/Sushanthsush43/EV_Charging_and_Booking/blob/main/assets/images/Screenshot_20240607_131608_LinkedIn.jpg)
 ![Image 3](https://github.com/Sushanthsush43/EV_Charging_and_Booking/blob/main/assets/images/Screenshot_20240607_131612_LinkedIn.jpg)
