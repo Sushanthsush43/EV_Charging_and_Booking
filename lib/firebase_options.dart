@@ -44,38 +44,38 @@ class DefaultFirebaseOptions {
   }
 
   static FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBs0SIEISWm2WjJjZNJ_8cpIpiADvWLheI',
-    appId: '1:934438009739:web:f2c555ca43c0bab7840d8e',
-    messagingSenderId: '934438009739',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'sushanth-uber-app',
-    authDomain: 'sushanth-uber-app.firebaseapp.com',
-    storageBucket: 'sushanth-uber-app.appspot.com',
-    measurementId: 'G-NDC4BNZ3JL',
+    authDomain: '',
+    storageBucket: '',
+    measurementId: '',
   );
 
   static FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB3rZ2NspdLxKSVL5AxEXRbPDQVlbcjyTM',
-    appId: '1:934438009739:android:615c50fc1612aded840d8e',
-    messagingSenderId: '934438009739',
+    apiKey: '',
+    appId: 'e',
+    messagingSenderId: '',
     projectId: 'sushanth-uber-app',
-    storageBucket: 'sushanth-uber-app.appspot.com',
+    storageBucket: '',
   );
 
   static FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyD85km53cMIzhzpfWlO9jY2Xo1sI6suKlw',
-    appId: '1:934438009739:ios:d76e90f633063ace840d8e',
-    messagingSenderId: '934438009739',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'sushanth-uber-app',
-    storageBucket: 'sushanth-uber-app.appspot.com',
+    storageBucket: '',
     iosBundleId: 'com.example.carUber',
   );
 
   static FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyD85km53cMIzhzpfWlO9jY2Xo1sI6suKlw',
-    appId: '1:934438009739:ios:46a35f6cdacab5b6840d8e',
-    messagingSenderId: '934438009739',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'sushanth-uber-app',
-    storageBucket: 'sushanth-uber-app.appspot.com',
+    storageBucket: '',
     iosBundleId: 'com.example.carUber.RunnerTests',
   );
 }
