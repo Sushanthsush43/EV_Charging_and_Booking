@@ -75,7 +75,7 @@ class _LoginScreenState extends State<LoginScreen> {
           } else {
             FirebaseAuth.instance.signOut();
             cMethods.DisplaySnackBar(
-                'Your are blocked.Contact admin: sushanthdevadiga034@gmail.com',
+                'Your are blocked.Contact admin: @gmail.com',
                 context);
           }
         } else {
